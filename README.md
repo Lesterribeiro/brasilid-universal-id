@@ -48,27 +48,32 @@ Permitir integração com sistemas governamentais e privados
 🟦 Estrutura do Repositório
 Código
 brasilid-universal-id/
+
 │
 ├── api/
 │   ├── openapi/
 │   ├── endpoints/
 │   ├── schemas/
+
 │
 ├── architecture/
 │   ├── system-design/
 │   ├── diagrams/
 │   ├── infrastructure/
 │   ├── microservices/
+
 │
 ├── assets/
 │   ├── branding/
 │   ├── icons/
 │   ├── images/
 │
+
 ├── config/
 │   ├── ci-cd/
 │   ├── deployment/
 │   ├── environments/
+
 │
 ├── docs/
 │   ├── api/
@@ -76,6 +81,7 @@ brasilid-universal-id/
 │   ├── governance/
 │   ├── global/
 │   ├── security/
+
 │
 ├── src/
 │   ├── backend/
@@ -83,10 +89,12 @@ brasilid-universal-id/
 │   │   ├── frontend/
 │   │   ├── integrations/
 │   │   ├── services/
+
 │
 ├── LICENSE
 ├── README.md
 └── .gitignore
+
 
 🟩 Arquitetura
 A arquitetura é dividida em camadas:
