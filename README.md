@@ -1,7 +1,9 @@
 # brasilid-universal-id
 Repositório internacional do projeto BrasilID.
+
 📘 README.md — BrasilID Universal ID
 Sistema Universal de Identidade Digital
+
 🟦 Visão Geral
 O BrasilID Universal ID é uma arquitetura modular e escalável para identidade digital, projetada para integrar serviços públicos, privados e governamentais em um ecossistema seguro, interoperável e padronizado.
 
@@ -41,6 +43,7 @@ Fornecer APIs abertas e documentadas
 Criar uma arquitetura escalável e modular
 
 Permitir integração com sistemas governamentais e privados
+
 
 🟦 Estrutura do Repositório
 Código
@@ -84,6 +87,7 @@ brasilid-universal-id/
 ├── LICENSE
 ├── README.md
 └── .gitignore
+
 🟩 Arquitetura
 A arquitetura é dividida em camadas:
 
@@ -134,6 +138,7 @@ CI/CD
 
 Observabilidade
 
+
 🟦 Tecnologias
 Node.js / TypeScript
 
@@ -149,6 +154,7 @@ Terraform (opcional)
 
 PostgreSQL / Redis
 
+
 🟩 Como Rodar o Projeto
 1. Instalar dependências
 Código
@@ -162,12 +168,15 @@ npm test
 4. Gerar build
 Código
 npm run build
+
 🟦 Contribuição
 Contribuições são bem-vindas!
 Crie issues, pull requests e participe da evolução do BrasilID.
 
+
 🟩 Licença
 Este projeto está sob a licença MIT.
+
 
 🟦 Roadmap (resumo)
 [x] Estrutura do repositório
